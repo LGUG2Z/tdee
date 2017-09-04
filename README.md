@@ -1,6 +1,5 @@
 # tdee
-tdee is a simple command line tool to calculate your total daily energy.
-expenditure
+tdee is a simple command line tool to calculate your total daily energy expenditure.
 
 ## Requirements
 * [Go](https://github.com/golang/go)
