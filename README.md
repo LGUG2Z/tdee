@@ -103,7 +103,7 @@ Raw numerical output piped to `loseit`
 ```
 
 ## Scripting
-Given that weight is the only thing that is likely to change regularly, these tools can
+Given that weight is the only variable that is likely to change regularly, these tools can
 be scripted in order to be less verbose:
 
 ```bash
